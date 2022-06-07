@@ -1,4 +1,4 @@
-author 'NICK#8338'
+author 'FL45H#5053'
 
 description 'sn-geen-crosshair - verwijderd standaard fivem crosshair'
 
