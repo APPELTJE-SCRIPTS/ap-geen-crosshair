@@ -1,6 +1,6 @@
-author 'FL45H#5053'
+author 'Appeltje#5053'
 
-description 'sn-geen-crosshair - verwijderd standaard fivem crosshair'
+description 'ap-geen-crosshair - verwijderd standaard fivem crosshair'
 
 client_scripts {
 	'Client.net.dll',
